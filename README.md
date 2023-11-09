@@ -1,2 +1,2 @@
-# NextAppOrg.github.io
+# wyngAppOrg.github.io
 Simple Website
